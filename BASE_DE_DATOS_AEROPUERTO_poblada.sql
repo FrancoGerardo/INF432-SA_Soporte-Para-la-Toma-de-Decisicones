@@ -10,6 +10,7 @@ create table Airport
 
 
 
+
 create table Plane_Model
 (
 	id_plane_model int IDENTITY(1,1)  PRIMARY key,
